@@ -23,8 +23,8 @@ and print the winner.
 4. Run -> Run.
 
 ## Where things are
-- `agents/PartyAgent.java` — generates program, debates, tallies votes
-- `agents/CitizenAgent.java` — receives programs, debates, votes
-- `util/GeminiClient.java` — Gemini API call, model fallback, rate throttle
-- `util/Config.java` — citizen/party names, persona , round count, language instruction
-- `Launcher.java` — creates the container and the N agents
+- `agents/PartyAgent.java` - generates program, debates, tallies votes
+- `agents/CitizenAgent.java` - receives programs, debates, votes
+- `util/GeminiClient.java` - Gemini API call, model fallback, rate throttle
+- `util/Config.java` - citizen/party names, persona , round count, language instruction
+- `Launcher.java` - creates the container and the N agents
